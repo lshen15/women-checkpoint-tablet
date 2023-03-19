@@ -310,7 +310,7 @@ a.skip:focus{
     border: 1px solid #e82e81;
   }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 850px){
 
     a.skip:focus{
         top: 0px;
@@ -318,7 +318,7 @@ a.skip:focus{
         background: #e82e81;
         outline: none;
         padding: 10px 20px;
-        font-size: 80%;
+        font-size: 90%;
         color: white;
         border: 1px solid #e82e81;
     }
